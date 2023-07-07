@@ -3,7 +3,7 @@ console.log("Test for connection -- good")
 
 
 // get data
-d3.json("Pivot.table.json").then((data) => {
+d3.json("US_Chronic.json").then((data) => {
     console.log(data);
     
     
