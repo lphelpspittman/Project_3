@@ -3,10 +3,42 @@ console.log("Test for connection -- good")
 
 
 // get data
-d3.json("geojson.geojson").then(function(data) {
-    console.log(data[0].features[0]);
+d3.json("Pivot.table.json").then((data) => {
+    console.log(data);
+    
+    
+    let states = data.map(function(state) {
+        return state.LocationDesc;
+    });
+    console.log(states);
 
+    let cardios = data.map(function(cardio) {
+        return cardio.CardiovascularDisease;
+    });
+    console.log(cardios)
 
+    let diabetes = data.map(function(diabete) {
+        return diabete.Diabetes;
+    });
+    console.log(diabetes)
+
+    // create scatter plot
+    let scattertrace = {
+        x: cardios,
+        y: diabetes,
+        mode: 'markers',
+        type: 'scatter',
+        text: states,
+        marker: { size: 12 }
+    };
+
+    let scatterdata = [ scattertrace ];
+
+    let scatterlayout = {
+        title:'Cardio vs Diabetes'
+    };
+
+    Plotly.newPlot('plot', scatterdata, scatterlayout);
 
 
 
