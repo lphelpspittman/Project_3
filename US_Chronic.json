@@ -64,14 +64,6 @@
 },
 {
   "_id": {
-    "$oid": "64a75e53aba3a46a3a13ada7"
-  },
-  "LocationDesc": "District of Columbia",
-  "CardiovascularDisease": 2088.3,
-  "Diabetes": 1606
-},
-{
-  "_id": {
     "$oid": "64a75e53aba3a46a3a13ada8"
   },
   "LocationDesc": "Florida",
@@ -349,14 +341,6 @@
   "LocationDesc": "Texas",
   "CardiovascularDisease": 2402.4,
   "Diabetes": 1703.1
-},
-{
-  "_id": {
-    "$oid": "64a75e53aba3a46a3a13adcb"
-  },
-  "LocationDesc": "United States",
-  "CardiovascularDisease": 379.7,
-  "Diabetes": 211.4
 },
 {
   "_id": {
