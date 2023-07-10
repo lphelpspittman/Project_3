@@ -1,46 +1,57 @@
 // check to see the connection between plots_lauren.js and index.html
 console.log("Test for connection -- good")
 
+// build event listener
+d3.select("#dropDown").on("change", buildCharts)
 
-// get data
-d3.json("US_Chronic.json").then((data) => {
-    console.log(data);
-    
-    
-    let states = data.map(function(state) {
-        return state.LocationDesc;
-    });
-    console.log(states);
+// create function for drop down menu
+function buildCharts() {
+    let userSelect = d3.select("#dropDown").property("value")
 
-    let cardios = data.map(function(cardio) {
-        return cardio.CardiovascularDisease;
-    });
-    console.log(cardios)
+    // get data
+    // d3.json("US_Chronic.json").then((data) => {
+    d3.json("New_Chronic.json").then((data) => {
+        data = JSON.parse(data)
+        
+        let states = data.map(function(state) {
+            return state.LocationDesc;
+        });
+        console.log(states);
 
-    let diabetes = data.map(function(diabete) {
-        return diabete.Diabetes;
-    });
-    console.log(diabetes)
+        let cardios = data.map(function(cardio) {
+            return cardio.CardiovascularDisease;
+        });
+        console.log(cardios)
 
-    // create scatter plot
-    let scattertrace = {
-        x: cardios,
-        y: diabetes,
-        mode: 'markers',
-        type: 'scatter',
-        text: states,
-        marker: { size: 12 }
-    };
+        let populations = data.map(function(p) {
+            return p["Pop. 2020"];
+        });
+        console.log(populations)
 
-    let scatterdata = [ scattertrace ];
+        let diabetes = data.map(function(diabete) {
+            return diabete.Diabetes;
+        });
+        console.log(diabetes)
 
-    let scatterlayout = {
-        title:'Cardio vs Diabetes'
-    };
+        // create scatter plot
+        let scattertrace = {
+            x: populations,
+            y: userSelect == "Diabetes" ? diabetes : cardios,
+            mode: 'markers',
+            type: 'scatter',
+            text: states,
+            marker: { size: 12 }
+        };
 
-    Plotly.newPlot('plot', scatterdata, scatterlayout);
+        let scatterdata = [ scattertrace ];
 
+        let scatterlayout = {
+            title:'Cardiovascular Disease vs Diabetes'
+        };
 
+        Plotly.newPlot('plot', scatterdata, scatterlayout);
 
     // data not available below this point
 });
+}
+buildCharts()
