@@ -40,18 +40,29 @@ function buildCharts() {
             mode: 'markers',
             type: 'scatter',
             text: states,
-            marker: { size: 12 }
+            marker: { 
+                color: 'rgb(17, 157, 255)',
+                size: 12,
+                line: {
+                    color: 'black',
+                    width: 1
+                } 
+            }
         };
 
         let scatterdata = [ scattertrace ];
 
         let scatterlayout = {
-            title:'Cardiovascular Disease vs Diabetes'
+            title:'Cardiovascular Disease vs Diabetes',
+            xaxis: {title: 'Population'},
+            yaxis: {title: 'Cases per 100,000'}
         };
 
         Plotly.newPlot('plot', scatterdata, scatterlayout);
 
     // data not available below this point
-});
-}
+    
+    });
+};
+
 buildCharts()
