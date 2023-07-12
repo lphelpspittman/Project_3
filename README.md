@@ -21,6 +21,9 @@ BY EMILY CURLIN
 ### Visualization using Plotly
 BY LAUREN PHELPS
 
+![image](https://github.com/lphelpspittman/Project_3/assets/127759770/ef774644-8908-40e4-a405-03a6865cd161)
+
+![image](https://github.com/lphelpspittman/Project_3/assets/127759770/ef52432d-b19e-4b54-836e-05d12711e598)
 
 
 
