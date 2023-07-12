@@ -1,7 +1,6 @@
-
 //Set up SVG dimensions and properties
 const margin = {top: 20, right: 10, bottom: 20, left: 20},
-width = 1000 - margin.left - margin.right,
+width = 3500 - margin.left - margin.right,
 height = 1000 - margin.top - margin.bottom,
 barPadding = 7,
 graph_misc = {ylabel:4, xlabelH :4, title:15};
@@ -52,7 +51,7 @@ function d3BarChart(datasetBarChart){
         .attr("height", function(d) {
             return height-yScale(d.value);
         })
-        .attr("fill", "#757077");
+        .attr("fill", "#3076d1");
     
     //Adding  barchart labels
     visualization.selectAll('text')
