@@ -58,18 +58,10 @@ a {
     width:60%;
 }
 
-#pieChart {
-    margin-top: 4em;
-    font-size: 12px;
-}
 
 #barChart {
     font-size: 9px;
     margin-top: 4em;
-}
-
-#pieChart .title, #barChart .title{
-    font-weight: bold;
 }
 
 .slice {
