@@ -58,7 +58,7 @@ BY STEVE TUTTLE
 
 ### Visualization By Using Bar Chart
 ####  *Using D3 Diabetes mortality rate*
-![]("https://github.com/lphelpspittman/Project_3/blob/main/Images/d3_not_readable.png")
+![](https://github.com/lphelpspittman/Project_3/blob/main/Images/d3_not_readable.png)
 
 #### *Plotly Cardiovascular disease vs diabetes mortality rate*
 ![](https://github.com/lphelpspittman/Project_3/blob/main/Images/plotly.png)
