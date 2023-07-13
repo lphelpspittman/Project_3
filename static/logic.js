@@ -41,7 +41,7 @@ L.control.layers(baseMaps, overlayMaps, {
 }).addTo(myMap);
 
 // Get mortality rate data from geojson
-let queryUrl = "data/geojson.geojson"
+let queryUrl = "../data/geojson.geojson"
 
 // Perform a d3.json AJAX request to the query URL/
 d3.json(queryUrl).then(function (data) {
