@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ad9f"
+  },
+  "LocationDesc": "Alabama",
+  "CardiovascularDisease": 3193.8,
+  "Diabetes": 1026.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada0"
+  },
+  "LocationDesc": "Alaska",
+  "CardiovascularDisease": 1655.1,
+  "Diabetes": 1038.9
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada1"
+  },
+  "LocationDesc": "Arizona",
+  "CardiovascularDisease": 2381,
+  "Diabetes": 1913.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada2"
+  },
+  "LocationDesc": "Arkansas",
+  "CardiovascularDisease": 2912.4,
+  "Diabetes": 1628.8
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada3"
+  },
+  "LocationDesc": "California",
+  "CardiovascularDisease": 2639.4,
+  "Diabetes": 1947.4
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada4"
+  },
+  "LocationDesc": "Colorado",
+  "CardiovascularDisease": 1952.8,
+  "Diabetes": 1798
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada5"
+  },
+  "LocationDesc": "Connecticut",
+  "CardiovascularDisease": 1998,
+  "Diabetes": 1058
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada6"
+  },
+  "LocationDesc": "Delaware",
+  "CardiovascularDisease": 2156.3,
+  "Diabetes": 1332.1
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada8"
+  },
+  "LocationDesc": "Florida",
+  "CardiovascularDisease": 2505.8,
+  "Diabetes": 1514.7
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13ada9"
+  },
+  "LocationDesc": "Georgia",
+  "CardiovascularDisease": 2208.4,
+  "Diabetes": 1121.4
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adaa"
+  },
+  "LocationDesc": "Hawaii",
+  "CardiovascularDisease": 2149,
+  "Diabetes": 945.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adab"
+  },
+  "LocationDesc": "Idaho",
+  "CardiovascularDisease": 1900.2,
+  "Diabetes": 1483.5
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adac"
+  },
+  "LocationDesc": "Illinois",
+  "CardiovascularDisease": 2430.1,
+  "Diabetes": 1619.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adad"
+  },
+  "LocationDesc": "Indiana",
+  "CardiovascularDisease": 2362.9,
+  "Diabetes": 1560.8
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adae"
+  },
+  "LocationDesc": "Iowa",
+  "CardiovascularDisease": 2309.4,
+  "Diabetes": 1606.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adaf"
+  },
+  "LocationDesc": "Kansas",
+  "CardiovascularDisease": 2725.7,
+  "Diabetes": 1719
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb0"
+  },
+  "LocationDesc": "Kentucky",
+  "CardiovascularDisease": 2560.6,
+  "Diabetes": 1924
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb1"
+  },
+  "LocationDesc": "Louisiana",
+  "CardiovascularDisease": 3013.9,
+  "Diabetes": 1594.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb2"
+  },
+  "LocationDesc": "Maine",
+  "CardiovascularDisease": 1503.3,
+  "Diabetes": 736.9
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb3"
+  },
+  "LocationDesc": "Maryland",
+  "CardiovascularDisease": 2237.2,
+  "Diabetes": 1548.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb4"
+  },
+  "LocationDesc": "Massachusetts",
+  "CardiovascularDisease": 1741.8,
+  "Diabetes": 980.5
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb5"
+  },
+  "LocationDesc": "Michigan",
+  "CardiovascularDisease": 3226.4,
+  "Diabetes": 1669.1
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb6"
+  },
+  "LocationDesc": "Minnesota",
+  "CardiovascularDisease": 1757.8,
+  "Diabetes": 2412.9
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb7"
+  },
+  "LocationDesc": "Mississippi",
+  "CardiovascularDisease": 3134.1,
+  "Diabetes": 3016.1
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb8"
+  },
+  "LocationDesc": "Missouri",
+  "CardiovascularDisease": 2822.6,
+  "Diabetes": 1166.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adb9"
+  },
+  "LocationDesc": "Montana",
+  "CardiovascularDisease": 2140.2,
+  "Diabetes": 1628.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adba"
+  },
+  "LocationDesc": "Nebraska",
+  "CardiovascularDisease": 1757.8,
+  "Diabetes": 2309.5
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adbb"
+  },
+  "LocationDesc": "Nevada",
+  "CardiovascularDisease": 3250.7,
+  "Diabetes": 1652.9
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adbc"
+  },
+  "LocationDesc": "New Hampshire",
+  "CardiovascularDisease": 1441,
+  "Diabetes": 685.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adbd"
+  },
+  "LocationDesc": "New Jersey",
+  "CardiovascularDisease": 2695.7,
+  "Diabetes": 1275.7
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adbe"
+  },
+  "LocationDesc": "New Mexico",
+  "CardiovascularDisease": 2624.9,
+  "Diabetes": 2144
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adbf"
+  },
+  "LocationDesc": "New York",
+  "CardiovascularDisease": 3025.9,
+  "Diabetes": 1659.5
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc0"
+  },
+  "LocationDesc": "North Carolina",
+  "CardiovascularDisease": 2339.9,
+  "Diabetes": 1411
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc1"
+  },
+  "LocationDesc": "North Dakota",
+  "CardiovascularDisease": 1971.8,
+  "Diabetes": 1307.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc2"
+  },
+  "LocationDesc": "Ohio",
+  "CardiovascularDisease": 2757.6,
+  "Diabetes": 1410.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc3"
+  },
+  "LocationDesc": "Oklahoma",
+  "CardiovascularDisease": 3623.1,
+  "Diabetes": 3212.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc4"
+  },
+  "LocationDesc": "Oregon",
+  "CardiovascularDisease": 2000.9,
+  "Diabetes": 1867.3
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc5"
+  },
+  "LocationDesc": "Pennsylvania",
+  "CardiovascularDisease": 2578.6,
+  "Diabetes": 1324.4
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc6"
+  },
+  "LocationDesc": "Rhode Island",
+  "CardiovascularDisease": 2069.7,
+  "Diabetes": 1438.4
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc7"
+  },
+  "LocationDesc": "South Carolina",
+  "CardiovascularDisease": 2258.1,
+  "Diabetes": 1477.3
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc8"
+  },
+  "LocationDesc": "South Dakota",
+  "CardiovascularDisease": 1876.1,
+  "Diabetes": 1994.8
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adc9"
+  },
+  "LocationDesc": "Tennessee",
+  "CardiovascularDisease": 2667.9,
+  "Diabetes": 1506.4
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adca"
+  },
+  "LocationDesc": "Texas",
+  "CardiovascularDisease": 2402.4,
+  "Diabetes": 1703.1
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adcc"
+  },
+  "LocationDesc": "Utah",
+  "CardiovascularDisease": 1937,
+  "Diabetes": 1615.5
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adcd"
+  },
+  "LocationDesc": "Vermont",
+  "CardiovascularDisease": 1669,
+  "Diabetes": 980.8
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adce"
+  },
+  "LocationDesc": "Virginia",
+  "CardiovascularDisease": 2158.6,
+  "Diabetes": 1008.2
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13adcf"
+  },
+  "LocationDesc": "Washington",
+  "CardiovascularDisease": 2124.2,
+  "Diabetes": 1637.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13add0"
+  },
+  "LocationDesc": "West Virginia",
+  "CardiovascularDisease": 2360,
+  "Diabetes": 1554.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13add1"
+  },
+  "LocationDesc": "Wisconsin",
+  "CardiovascularDisease": 2638.2,
+  "Diabetes": 2373.6
+},
+{
+  "_id": {
+    "$oid": "64a75e53aba3a46a3a13add2"
+  },
+  "LocationDesc": "Wyoming",
+  "CardiovascularDisease": 2049.7,
+  "Diabetes": 1721.2
+}]
