@@ -53,6 +53,9 @@ The US State-by-State Mortality Rates Visualization offers an engaging and infor
 ### Comparison Of Ethnic Groups
 BY STEVE TUTTLE
 
+![image](https://github.com/lphelpspittman/Project_3/assets/127759770/01c9757a-222e-48c9-9375-2267c444a24d)
+![image](https://github.com/lphelpspittman/Project_3/assets/127759770/412c6695-564d-4bee-b4f3-a45da225811d)
+
 
 
 
