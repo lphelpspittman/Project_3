@@ -56,13 +56,13 @@ BY STEVE TUTTLE
 
 
 
-### Visualization By Using Bar Chart
+### Visualization By Using Bar Chart By Tye Smith
 ####  *Using D3 Diabetes mortality rate*
 ![](https://github.com/lphelpspittman/Project_3/blob/main/Images/d3_not_readable.png)
 
 #### *Plotly Cardiovascular disease vs diabetes mortality rate*
 ![](https://github.com/lphelpspittman/Project_3/blob/main/Images/plotly.png)
-BY TYE SMITH
+
 
 ### Flask API
 BY TYLER WILLIAMS
