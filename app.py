@@ -10,7 +10,7 @@ data_df = pd.read_json("static/data/US_Chronic.json")
 
 @app.route('/')
 def index():
-   return render_template('index.html')
+   return render_template('index1.html')
 
 def data_creation(data, values, class_labels, group=None):
    for index, item in enumerate(values):
