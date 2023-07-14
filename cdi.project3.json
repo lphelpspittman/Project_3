@@ -1,0 +1,510 @@
+[{
+    "_id": {
+      "$oid": "64af312df9457c77f310d825"
+    },
+    "State": "Alabama",
+    "CVD-Female": 266.8,
+    "CVD-Male": 334.5,
+    "DIA-Female": 79.3,
+    "DIA-Male": 110.8
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d826"
+    },
+    "State": "Alaska",
+    "CVD-Female": 99,
+    "CVD-Male": 149.1,
+    "DIA-Female": 47.8,
+    "DIA-Male": 75
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d827"
+    },
+    "State": "Arizona",
+    "CVD-Female": 163,
+    "CVD-Male": 219.9,
+    "DIA-Female": 86.8,
+    "DIA-Male": 131.3
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d828"
+    },
+    "State": "Arkansas",
+    "CVD-Female": 253.2,
+    "CVD-Male": 316.9,
+    "DIA-Female": 120.4,
+    "DIA-Male": 150.2
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d829"
+    },
+    "State": "California",
+    "CVD-Female": 147.2,
+    "CVD-Male": 191.1,
+    "DIA-Female": 97.7,
+    "DIA-Male": 132.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82a"
+    },
+    "State": "Colorado",
+    "CVD-Female": 124.7,
+    "CVD-Male": 151.4,
+    "DIA-Female": 83.3,
+    "DIA-Male": 115.6
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82b"
+    },
+    "State": "Connecticut",
+    "CVD-Female": 184.2,
+    "CVD-Male": 216.4,
+    "DIA-Female": 77.4,
+    "DIA-Male": 91.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82c"
+    },
+    "State": "Delaware",
+    "CVD-Female": 198.6,
+    "CVD-Male": 242.9,
+    "DIA-Female": 101.9,
+    "DIA-Male": 140.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82d"
+    },
+    "State": "District of Columbia",
+    "CVD-Female": 173.7,
+    "CVD-Male": 206.8,
+    "DIA-Female": 123.8,
+    "DIA-Male": 153
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82e"
+    },
+    "State": "Florida",
+    "CVD-Female": 194.3,
+    "CVD-Male": 260.7,
+    "DIA-Female": 97,
+    "DIA-Male": 141.1
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d82f"
+    },
+    "State": "Georgia",
+    "CVD-Female": 171.2,
+    "CVD-Male": 224.7,
+    "DIA-Female": 82.3,
+    "DIA-Male": 104.6
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d830"
+    },
+    "State": "Hawaii",
+    "CVD-Female": 150.1,
+    "CVD-Male": 222.6,
+    "DIA-Female": 75.1,
+    "DIA-Male": 104.9
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d831"
+    },
+    "State": "Idaho",
+    "CVD-Female": 153.1,
+    "CVD-Male": 196.2,
+    "DIA-Female": 95.9,
+    "DIA-Male": 135.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d832"
+    },
+    "State": "Illinois",
+    "CVD-Female": 196.1,
+    "CVD-Male": 241,
+    "DIA-Female": 95.9,
+    "DIA-Male": 127.2
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d833"
+    },
+    "State": "Indiana",
+    "CVD-Female": 198.4,
+    "CVD-Male": 251.4,
+    "DIA-Female": 118.2,
+    "DIA-Male": 147.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d834"
+    },
+    "State": "Iowa",
+    "CVD-Female": 216.6,
+    "CVD-Male": 257.6,
+    "DIA-Female": 127.2,
+    "DIA-Male": 168.1
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d835"
+    },
+    "State": "Kansas",
+    "CVD-Female": 195.5,
+    "CVD-Male": 234.6,
+    "DIA-Female": 98.3,
+    "DIA-Male": 130.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d836"
+    },
+    "State": "Kentucky",
+    "CVD-Female": 218.6,
+    "CVD-Male": 289.3,
+    "DIA-Female": 162.6,
+    "DIA-Male": 203.8
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d837"
+    },
+    "State": "Louisiana",
+    "CVD-Female": 228.8,
+    "CVD-Male": 300.6,
+    "DIA-Female": 120.9,
+    "DIA-Male": 139.9
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d838"
+    },
+    "State": "Maine",
+    "CVD-Female": 199.5,
+    "CVD-Male": 251.2,
+    "DIA-Female": 89,
+    "DIA-Male": 134.1
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d839"
+    },
+    "State": "Maryland",
+    "CVD-Female": 185.6,
+    "CVD-Male": 232.8,
+    "DIA-Female": 119.2,
+    "DIA-Male": 147.9
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83a"
+    },
+    "State": "Massachusetts",
+    "CVD-Female": 154.1,
+    "CVD-Male": 188.7,
+    "DIA-Female": 66.4,
+    "DIA-Male": 93.2
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83b"
+    },
+    "State": "Michigan",
+    "CVD-Female": 246.1,
+    "CVD-Male": 299.1,
+    "DIA-Female": 102.6,
+    "DIA-Male": 133.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83c"
+    },
+    "State": "Minnesota",
+    "CVD-Female": 138.9,
+    "CVD-Male": 163.8,
+    "DIA-Female": 124,
+    "DIA-Male": 159.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83d"
+    },
+    "State": "Mississippi",
+    "CVD-Female": 262.8,
+    "CVD-Male": 333.3,
+    "DIA-Female": 186.9,
+    "DIA-Male": 217.1
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83e"
+    },
+    "State": "Missouri",
+    "CVD-Female": 229.5,
+    "CVD-Male": 289.7,
+    "DIA-Female": 86.9,
+    "DIA-Male": 116.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d83f"
+    },
+    "State": "Montana",
+    "CVD-Female": 186.8,
+    "CVD-Male": 261.3,
+    "DIA-Female": 96.2,
+    "DIA-Male": 150.3
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d840"
+    },
+    "State": "Nebraska",
+    "CVD-Female": 171.2,
+    "CVD-Male": 193.4,
+    "DIA-Female": 135.5,
+    "DIA-Male": 158
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d841"
+    },
+    "State": "Nevada",
+    "CVD-Female": 186.4,
+    "CVD-Male": 277.7,
+    "DIA-Female": 76.2,
+    "DIA-Male": 121.6
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d842"
+    },
+    "State": "New Hampshire",
+    "CVD-Female": 174.8,
+    "CVD-Male": 237.7,
+    "DIA-Female": 79.1,
+    "DIA-Male": 117.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d843"
+    },
+    "State": "New Jersey",
+    "CVD-Female": 207.3,
+    "CVD-Male": 238,
+    "DIA-Female": 80.9,
+    "DIA-Male": 113.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d844"
+    },
+    "State": "New Mexico",
+    "CVD-Female": 172.4,
+    "CVD-Male": 228.8,
+    "DIA-Female": 118.6,
+    "DIA-Male": 145.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d845"
+    },
+    "State": "New York",
+    "CVD-Female": 237.8,
+    "CVD-Male": 265.1,
+    "DIA-Female": 102.6,
+    "DIA-Male": 129.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d846"
+    },
+    "State": "North Carolina",
+    "CVD-Female": 166,
+    "CVD-Male": 219.9,
+    "DIA-Female": 90.3,
+    "DIA-Male": 116.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d847"
+    },
+    "State": "North Dakota",
+    "CVD-Female": 169.2,
+    "CVD-Male": 208.5,
+    "DIA-Female": 91.3,
+    "DIA-Male": 131.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d848"
+    },
+    "State": "Ohio",
+    "CVD-Female": 237,
+    "CVD-Male": 286.5,
+    "DIA-Female": 114.2,
+    "DIA-Male": 146.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d849"
+    },
+    "State": "Oklahoma",
+    "CVD-Female": 259.6,
+    "CVD-Male": 331.9,
+    "DIA-Female": 189.6,
+    "DIA-Male": 257.3
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84a"
+    },
+    "State": "Oregon",
+    "CVD-Female": 149,
+    "CVD-Male": 199,
+    "DIA-Female": 109.1,
+    "DIA-Male": 150.8
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84b"
+    },
+    "State": "Pennsylvania",
+    "CVD-Female": 237.7,
+    "CVD-Male": 278.4,
+    "DIA-Female": 105,
+    "DIA-Male": 132.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84c"
+    },
+    "State": "Rhode Island",
+    "CVD-Female": 207,
+    "CVD-Male": 232.4,
+    "DIA-Female": 110.8,
+    "DIA-Male": 143.8
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84d"
+    },
+    "State": "South Carolina",
+    "CVD-Female": 184.6,
+    "CVD-Male": 254.1,
+    "DIA-Female": 116.2,
+    "DIA-Male": 151.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84e"
+    },
+    "State": "South Dakota",
+    "CVD-Female": 175.1,
+    "CVD-Male": 232.1,
+    "DIA-Female": 150.2,
+    "DIA-Male": 189.7
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d84f"
+    },
+    "State": "Tennessee",
+    "CVD-Female": 226.6,
+    "CVD-Male": 296.2,
+    "DIA-Female": 119,
+    "DIA-Male": 156.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d850"
+    },
+    "State": "Texas",
+    "CVD-Female": 147.6,
+    "CVD-Male": 195.3,
+    "DIA-Female": 101.7,
+    "DIA-Male": 132.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d851"
+    },
+    "State": "Utah",
+    "CVD-Female": 123.7,
+    "CVD-Male": 137.8,
+    "DIA-Female": 63.2,
+    "DIA-Male": 84.4
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d852"
+    },
+    "State": "Vermont",
+    "CVD-Female": 212.1,
+    "CVD-Male": 276.6,
+    "DIA-Female": 120.2,
+    "DIA-Male": 167.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d853"
+    },
+    "State": "Virginia",
+    "CVD-Female": 162.3,
+    "CVD-Male": 203.4,
+    "DIA-Female": 74.8,
+    "DIA-Male": 100
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d854"
+    },
+    "State": "Washington",
+    "CVD-Female": 136.6,
+    "CVD-Male": 177.5,
+    "DIA-Female": 87,
+    "DIA-Male": 117.2
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d855"
+    },
+    "State": "West Virginia",
+    "CVD-Female": 249.9,
+    "CVD-Male": 324.9,
+    "DIA-Female": 155.7,
+    "DIA-Male": 195.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d856"
+    },
+    "State": "Wisconsin",
+    "CVD-Female": 196.5,
+    "CVD-Male": 237.1,
+    "DIA-Female": 122.4,
+    "DIA-Male": 158.5
+  },
+  {
+    "_id": {
+      "$oid": "64af312df9457c77f310d857"
+    },
+    "State": "Wyoming",
+    "CVD-Female": 170.3,
+    "CVD-Male": 231.7,
+    "DIA-Female": 111.8,
+    "DIA-Male": 150.6
+  }]
