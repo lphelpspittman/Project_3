@@ -70,7 +70,8 @@ BY STEVE TUTTLE
 ### Flask API
 BY TYLER WILLIAMS
 
-[link to deployed Project 3 dashboard map]https://lphelpspittman.github.io/Project_3/
+
+[link to deployed Project 3 dashboard]https://lphelpspittman.github.io/Project_3/
 
 ## Contributors: 
 * Emily Curlin (Emily.curlin@outlook.com)
